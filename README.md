@@ -25,3 +25,6 @@ Considerations when constructing the plots included ...
  4. Including extra commenting so that the examples could serve as future instruction reminders.
  5. Checking for and removing any prior plot outputs before creating the image display files.
  6. All files uploaded to this GitHub repository.
+
+ See the files 'ExDataCP1Plot1.png' through 'ExDataCP1Plot4.png' for the original plots for reproduction.
+ 
